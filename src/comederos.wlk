@@ -1,0 +1,5 @@
+import animales.*
+
+class Comedero{
+	
+}
